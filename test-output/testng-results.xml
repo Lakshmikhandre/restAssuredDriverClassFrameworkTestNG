@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-07T11:25:08 IST" name="Suite" finished-at="2023-06-07T11:25:14 IST" duration-ms="6030">
+    <groups>
+    </groups>
+    <test started-at="2023-06-07T11:25:08 IST" name="Test" finished-at="2023-06-07T11:25:14 IST" duration-ms="6030">
+      <class name="testClassPackage.Post_TC_1">
+        <test-method signature="execute()[pri:0, instance:testClassPackage.Post_TC_1@117159c0]" started-at="2023-06-07T11:25:08 IST" name="execute" finished-at="2023-06-07T11:25:11 IST" duration-ms="3266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- testClassPackage.Post_TC_1 -->
+      <class name="testClassPackage.Post_TC_2">
+        <test-method signature="execute()[pri:0, instance:testClassPackage.Post_TC_2@7161d8d1]" started-at="2023-06-07T11:25:11 IST" name="execute" finished-at="2023-06-07T11:25:12 IST" duration-ms="1306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- testClassPackage.Post_TC_2 -->
+      <class name="testClassPackage.Post_TC_3">
+        <test-method signature="execute()[pri:0, instance:testClassPackage.Post_TC_3@74e28667]" started-at="2023-06-07T11:25:12 IST" name="execute" finished-at="2023-06-07T11:25:14 IST" duration-ms="1325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- testClassPackage.Post_TC_3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
